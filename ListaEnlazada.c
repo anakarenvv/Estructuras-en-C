@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -10,7 +9,6 @@ typedef struct nodo
 
 nodo* primero=NULL; //Apuntadores
 nodo* ultimo=NULL;
-
 
 void insertarNodo();
 void buscarNodo();
