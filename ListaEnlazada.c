@@ -59,32 +59,25 @@ int main()
             printf("\n\n Eliminar Nodo \n\n");
             eliminarNodo();
             break;
-
         case 5:
             printf("\n\n Desplegar Nodo \n\n");
             desplegarNodo();
             break;
-
         case 6:
              printf("\n\n Eliminar el valor de una posicion \n\n");
             eliminarPosicion();
             break;
-
         case 7:
              printf("\n\n Insertar al inicio \n\n");
             insertarInicio();
             break;
-
         case 8:
              printf("\n\n Insertar en un lugar\n");
            insertarLugar();
             break;
-
-
         case 9:
             printf("\n\n Salir \n\n");
             break;
-
         default:
             printf("\n\n  Opcion invalida\n\n");
 
